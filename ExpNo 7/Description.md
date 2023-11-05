@@ -71,7 +71,6 @@ Begin<br>
       return true<br>
    return false<br>
 End<br>
-<hr>
 
 ## SAMPLE INPUT AND OUTPUT:
 SEND = 9567<br>
