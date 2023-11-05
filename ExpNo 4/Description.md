@@ -38,7 +38,6 @@ Feedback is provided in terms of heuristic function
 ### Step 4:
 <p> Loop Step 2 and Step 3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
-<hr>
 
 ## PROGRAM:
 ```PYTHON
